@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Devanshi Shah</h1>
+<h1 align="center">Hi 👋, I'm Devanshi</h1>
 
-- 👩🏻‍💻 I'm a Computer Engineering Undergraduate at <a href="https://vjti.ac.in">VJTI</a>
-- 🌱 I’m currently learning **Vue** and exploring **Open Source**
-- 👯 I’m looking to collaborate with small businesses by building tech based solutions for their growth
-- 📫 Mail me at **devanshi1500@gmail.com**
+- 👩🏻‍💻 I'm a Computer Engineering Undergraduate at <a href="https://vjti.ac.in">**VJTI**</a>
+- 🌱 I’m currently learning <a href="https://vuejs.org">**Vue**</a> and exploring **Open Source**
+- 👯 I’m looking to collaborate with small businesses by building tech-based solutions for their growth
+- 📫 You can mail me at **devanshi1500@gmail.com**
 
 <br>
 
@@ -44,13 +44,14 @@ Here are some ideas to get you started:
 <br>
 
 <h3>👨‍💻 Passionate about?</h3>
-<p>Coding & Developing</p>
-<p>Designing & Creating</p>
-<p>Cycling & Fitness</p>
+
+- Coding & Developing
+- Designing & Creating
+- Cycling & Fitness
 
 <br>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Let's talk!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/devanshi-shah-5aab44190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Devanshi Shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devanshi-shah-5aab44190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Devanshi Shah" height="30" width="40" /></a> <a href="https://twitter.com/devanshi1500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@devanshi1500" height="30" width="40" /></a>
 </p>
