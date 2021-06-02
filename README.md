@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 I'm a Computer Engineering Undergraduate at <a href="https://vjti.ac.in">**VJTI**</a>
 - 🌱 I’m currently learning <a href="https://vuejs.org">**Vue**</a> and exploring **Open Source**
-- 👯 I’m looking to collaborate with small businesses by building tech-based solutions for their growth
 - 📫 You can mail me at **devanshi1500@gmail.com**
 
 <br>
