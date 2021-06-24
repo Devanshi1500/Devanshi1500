@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Devanshi</h1>
+<h1 align="center">👋 Hi, I'm Devanshi</h1>
 
 - 👩🏻‍💻 I'm a Computer Engineering Undergraduate at <a href="https://vjti.ac.in">**VJTI**</a>
-- 🌱 I’m currently learning <a href="https://vuejs.org">**Vue**</a> and exploring **Open Source**
+- 🌱 I’m currently learning <a href="https://angular.io/">**Angular**</a> and <a href="https://spring.io/">**Spring Boot**</a>
 - 📫 You can mail me at **devanshi1500@gmail.com**
 
 <br>
 
-<h3 align="center">Stuff I've worked with</h3>
+<h3 align="center">I've worked with</h3>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
@@ -34,15 +34,11 @@ Here are some ideas to get you started:
 </p><br>
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshi1500&theme=vue-dark" alt="Devanshi1500"/>
-</p><br>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi1500&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="Devanshi1500" />
 </p>
 
 <br>
 
-<h3>👨‍💻 Passionate about?</h3>
+<h3>👨‍💻 I am passionate about</h3>
 
 - Coding & Developing
 - Designing & Creating
