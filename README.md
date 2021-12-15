@@ -1,4 +1,4 @@
-<a href="https://devanshi.netlify.app" rel="devanshi1500">![](https://raw.githubusercontent.com/devanshi1500/devanshi1500/main/images/readme-banner.png)</a>
+<a href="https://devanshi.netlify.app" target="_blank" rel="devanshi1500">![](https://raw.githubusercontent.com/devanshi1500/devanshi1500/main/images/readme-banner.png)</a>
 
 - 🌱 I’m currently exploring **Blockchain** and **Open Source**.
 - 💬 Ask me about **Frontend Development** and **UI/UX Designing**.
