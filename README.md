@@ -5,8 +5,6 @@
 - ⚡ Outside work, I love exploring places on my bike. I'm a fitness enthusist (Psst.. Follow me on <a href="https://www.strava.com/athletes/72220830">Strava</a>) and I'm always seeking opportunities and challenges that are meaningful to me.
 - 📫 Mail me at **devanshi1500@gmail.com**.
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=devanshi1500&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/devanshi1500&hide_border=true)
-
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=devanshi1500&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
